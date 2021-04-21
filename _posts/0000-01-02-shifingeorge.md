@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I ate a clock yesterday, it was very time-consuming
 Use the left arrow to go back!
